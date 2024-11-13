@@ -11,7 +11,7 @@ window.onload = function () {
     select.after(contentDiv);
   
     // Fetch the text file from the 'text' folder
-    fetch("text/reactans.txt")
+    fetch("reactans.txt")
       .then((response) => response.text()) // Parse response as text
       .then((text) => {
         // Function to escape HTML (for safely displaying content)
