@@ -36,7 +36,6 @@ cp filename.txt new_filename.txt
 chmod 755 filename.txt
 END 
 
-2.Shell Programming 
 1. Greatest of Three Numbers 
 bash 
 Copy code 
