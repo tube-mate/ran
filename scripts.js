@@ -33,7 +33,6 @@ window.onload = function () {
         // Define the topics in the desired order with corresponding sections in reactans.txt
         const topicsList = [
           "1. Basic linux Commands",
-          "2. Shell Programming",
           "1. Greatest of Three Numbers",
           "2. Factorial of a Number",
           "3. Sum of N Numbers",
